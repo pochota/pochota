@@ -1,4 +1,4 @@
 <img src="b.gif">
-<a href="https://poxut.github.io"><h2>mi pagina web en español</h2></a>
+<h2><a href="https://poxut.github.io">mi pagina web en español</a></h2>
 <br>
-<a href="https://poxut.github.io/en"><h2>my webpage in english</h2></a>
+<h2><a href="https://poxut.github.io/en">my webpage in english</a></h2>
